@@ -1,13 +1,11 @@
 # Seattle, WA
 ![](https://www.langan.com/wp-content/uploads/2020/01/Seattle-996x554-1.jpg)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
-
 
 ## About Seattle
-Seattle is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2020 population of 737,015,[2] it is the largest city in both the state of Washington and the Pacific Northwest region of North America. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States.[9] Its growth rate of 21.1% between 2010 and 2020 makes it one of the nation's fastest-growing large cities.[10]
+Seattle is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With a 2020 population of **737,015**, it is the largest city in both the state of *Washington* and the *Pacific Northwest* region of North America. The Seattle metropolitan area's population is 4.02 million, making it the 15th-largest in the United States. Its growth rate of 21.1% between 2010 and 2020 makes it one of the nation's fastest-growing large cities.
 
-Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington. It is the northernmost major city in the United States, located about 100 miles (160 km) south of the Canadian border. A major gateway for trade with northern Asia, Seattle is the fourth-largest port in North America in terms of container handling as of 2015.[11]
+*Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington. It is the northernmost major city in the United States, located about 100 miles (160 km) south of the Canadian border. A major gateway for trade with northern Asia, Seattle is the fourth-largest port in North America in terms of container handling as of 2015.*
 
 ## Places to Visit
 
@@ -19,14 +17,6 @@ Seattle is situated on an isthmus between Puget Sound (an inlet of the Pacific O
 * International District
 * Space Needle
 
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
-
-## Section 3
-One or several paragraphs for subsection 3.
 
 ## See also
 - [visitseattle.org](https://visitseattle.org/)
